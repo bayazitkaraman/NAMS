@@ -1,0 +1,12 @@
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\bin\Debug\NAMS.exe.config
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\bin\Debug\NAMS.exe
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\bin\Debug\NAMS.pdb
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_Activity_Monitoring_System.csproj.AssemblyReference.cache
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_Activity_Monitoring_System.mainForm.resources
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_Activity_Monitoring_System.Properties.Resources.resources
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_Activity_Monitoring_System.Stimuli.resources
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_Activity_Monitoring_System.csproj.GenerateResource.cache
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_Activity_Monitoring_System.csproj.CoreCompileInputs.cache
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\Neural_A.5B244F3D.Up2Date
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\NAMS.exe
+C:\Users\Bayazit Karaman\Desktop\Neural_Activity_Monitoring_System\Neural_Activity_Monitoring_System\obj\x86\Debug\NAMS.pdb
